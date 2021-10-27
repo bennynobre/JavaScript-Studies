@@ -1,0 +1,1 @@
+## in this repository I will be putting studies from Javascript fundamentals to frameworks
